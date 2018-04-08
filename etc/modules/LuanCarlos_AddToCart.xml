@@ -1,0 +1,9 @@
+<?xml version="1.0">
+<config>
+    <modules>
+        <LuanCarlos_AddToCart>
+            <active>true</active>
+            <codePool>community</codePool>
+        </LuanCarlos_AddToCart>
+    </modules>
+</config>

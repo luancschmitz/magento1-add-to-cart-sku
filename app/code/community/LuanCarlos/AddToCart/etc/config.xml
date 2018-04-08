@@ -1,0 +1,19 @@
+<?xml version="1.0">
+<config>
+    <modules>
+        <LuanCarlos_AddToCart>
+            <version>1.0</version>
+        </LuanCarlos_AddToCart>
+    </modules>
+    <frontend>
+        <routes>
+            <luancarlos_addtocart>
+                <use>standard</use>
+                <args>
+                    <module>LuanCarlos_AddToCart</module>
+                    <frontName>addtocard</frontName>
+                </args>
+            </luancarlos_addtocart>
+        </routes>
+    </frontend>
+</config>
